@@ -1,4 +1,4 @@
 #ABC Student Enrollment System
 
-This project was first conceived as a passion project because I have had plenty of unpleasant experiences with student enrollment systems.
+This project was first conceived as a passion project because I had an unpleasant experience during my enrollment as a student.
 The aim of this project was to create an intuitive and easy to use enrollment system that isn't dependent on network connections speeds.

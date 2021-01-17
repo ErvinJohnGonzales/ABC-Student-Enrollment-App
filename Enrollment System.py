@@ -134,6 +134,8 @@ c.executemany("""INSERT INTO Student values(?,?,?,?,?)""", Student_data)
 
 #commit changes
 conn.commit()
+#close db connection 
+conn.close()
 
 
 #Button Commands

@@ -149,7 +149,7 @@ class Enrollee:
 		self.widget.iconbitmap('C:/Users/MaryAnn/Desktop/Projects/Student Enrolment System/abc.ico')
 
 		self.Portal = ttk.Frame(self.widget,padx=50 ,pady=50)
-		self.Name = ttk.Label(self.Portal, text="Online Student Enrollment System")
+		self.Name = ttk.Label(self.Portal, text="Student Enrollment System")
 		self.Studid = ttk.Entry(self.Portal)
 		self.Studpass = ttk.Entry(self.Portal, show="*")
 		self.Portal.grid(row=0, column=0,padx=10 ,pady=10)
